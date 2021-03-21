@@ -1,0 +1,1 @@
+"C:\Program Files\MATLAB\R2020b\bin\matlab.exe" -nosplash -nodesktop -wait -log output.log -r "simulink_test"
